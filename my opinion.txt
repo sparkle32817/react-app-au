@@ -1,0 +1,13 @@
+My Opinion.
+
+You should fix API for getting all data.
+	
+	As i showed you yesterday, to get all data, i should send several request.
+	So to get data(to load page) is taking few time. This can't be ignored.
+	In my think, this is issue.
+	(If my method is wrong, please point my fault.)
+	I don't know well that this API is built for other function, but for this page is not suitable.
+	So this API should be fixed so that get data with one request.
+
+	If you can't understand(Of course i think you understood), I hope to meet back-end developer and discuss in details with him.
+
